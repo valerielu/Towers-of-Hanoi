@@ -1,5 +1,5 @@
-const HanoiGame = require('../solution/game.js');
-const HanoiView = require('./js/tower-view.js');
+const HanoiGame = require('./game.js');
+const HanoiView = require('./tower-view.js');
 
 $( () => {
   const $rootEl = $('.hanoi');
